@@ -8,7 +8,7 @@
 ### Current occupations ✨
   <ul>
     <li>⚙ Web Developer student at <a href="https://www.betrybe.com/">Trybe</a></li>
-    <li><img width="18px" src="https://github.com/camilarutt/camilarutt/assets/99209763/a7cec954-e23a-49c5-98d6-4032c20120ad" /> &nbsp;
+    <li><img width="18px" src="https://github.com/camilarutt/camilarutt/assets/99209763/a7cec954-e23a-49c5-98d6-4032c20120ad" />&nbsp;
 Industrial Design graduation student at <a href="https://www.uff.br/?q=curso/desenho-industrial/1145026/bacharelado/niteroi">Universidade Federal Fluminense</a></li>
     <li><img width="18px" src="https://cdn-icons-png.flaticon.com/512/190/190795.png" /> &nbsp;Search Engine Evaluator freelancer</li>
     </ul>
@@ -29,10 +29,10 @@ Industrial Design graduation student at <a href="https://www.uff.br/?q=curso/des
 
 <hr>
 
+#### Past achievements <img src="https://cdn-icons-png.flaticon.com/512/1804/1804395.png" height="18px" width="18px"/>
 <div>
-* Past achievements
 <ul>
   <li>Game designer in the development of a mobile game called "Carnaval de Juliana" (ink and unity)</li>
-  <li>Project Manager, Producer and Web Designer at <a href="https://trevo.us">TREVOUS</a></li>
+  <li>Project Manager, Producer and Web Designer at <a href="https://trevo.us">TREVOUS</a> &nbsp;<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6CqyJVo1JLwV0b4ePrkLjU2kgs-6pWl-thbHgmFK6nA&s" width="16px" height="16px"/></li>
 </ul>
 </div>
