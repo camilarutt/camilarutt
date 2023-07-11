@@ -1,6 +1,13 @@
 
+<h1 margin-left="20px">Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h1>
+  <p>I'm Camila, nice to meet you.</p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Camila/h1>
+  <h2>Current occupations</h2>
+  <ul>
+    <li>Web Developer student at <a href="https://www.betrybe.com/">Trybe</a></li>
+    <li>Industrial Design student at <a href="https://www.uff.br/?q=curso/desenho-industrial/1145026/bacharelado/niteroi">Universidade Federal Fluminense</a></li>
+    <li>Search Engine Evaluator freelance</li>
+    </ul>
 
 | Languages  | Frameworks and Technologies | Tools |        
 |---|---|---|
