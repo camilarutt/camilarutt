@@ -1,7 +1,7 @@
 
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
-#### <p>I'm Camila, nice to meet you!</p>
-##### <p font-size="10px">26 years, Rio de Janeiro, Brazil</p>
+<p font-size="16px">I'm Camila, nice to meet you!</p>
+<p font-size="10px">26 years, Rio de Janeiro, Brazil</p>
 
 <hr>
 
