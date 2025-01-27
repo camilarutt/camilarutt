@@ -9,7 +9,7 @@
   <ul>
     <li>⚙ Former Front End Developer student at <a href="https://www.betrybe.com/">Trybe</a></li>
     <li><img width="18px" src="https://github.com/camilarutt/camilarutt/assets/99209763/a7cec954-e23a-49c5-98d6-4032c20120ad" />&nbsp;
-Industrial Designer graduation student at <a href="https://www.uff.br/?q=curso/desenho-industrial/1145026/bacharelado/niteroi">Universidade Federal Fluminense</a></li>
+Industrial Designer graduated at <a href="https://www.uff.br/?q=curso/desenho-industrial/1145026/bacharelado/niteroi">Universidade Federal Fluminense</a></li>
     <li><img width="18px" src="https://cdn-icons-png.flaticon.com/512/190/190795.png" /> &nbsp;Search Engine Evaluator freelancer</li>
     </ul>
 <div align="center">
