@@ -7,7 +7,7 @@
 
 ### Current occupations ✨
   <ul>
-    <li><img width="18px" src="https://cdn-icons-png.flaticon.com/512/190/190795.png" /> &nbsp;Front-End Developer Freelancer at<a href="https://www.virtustant.com">Virtustant</a></li>
+    <li><img width="18px" src="https://cdn-icons-png.flaticon.com/512/190/190795.png" /> &nbsp;Front-End Developer Freelancer at <a href="https://www.virtustant.com">Virtustant</a></li>
     </ul>
 <div align="center">
 
