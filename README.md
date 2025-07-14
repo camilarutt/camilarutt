@@ -7,11 +7,14 @@
 
 ### Current occupations ✨
   <ul>
-Industrial Designer graduated at <a href="https://www.uff.br/?q=curso/desenho-industrial/1145026/bacharelado/niteroi">Universidade Federal Fluminense</a></li>
-    <li><img width="18px" src="https://cdn-icons-png.flaticon.com/512/190/190795.png" /> &nbsp;Search Engine Evaluator freelancer</li>
+    <li><img width="18px" src="https://cdn-icons-png.flaticon.com/512/190/190795.png" /> &nbsp;Front-End Developer Freelancer at<a href="https://www.virtustant.com">Virtustant</a></li>
     </ul>
 <div align="center">
 
+<hr>
+
+### Academic Background ✨
+<ul>Industrial Designer graduated at <a href="https://www.uff.br/?q=curso/desenho-industrial/1145026/bacharelado/niteroi">Universidade Federal Fluminense</a></ul>
 <hr>
 
 | Languages  | Frameworks and Technologies | Tools |        
