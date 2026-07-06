@@ -1,14 +1,14 @@
 
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 <p font-size="16px">I'm Camila, nice to meet you!</p>
-<p font-size="10px">28 years, Rio de Janeiro, Brazil</p>
+<p font-size="10px">29 years, Rio de Janeiro, Brazil</p>
 <p font-size="10px">Web Developer - Back-end & Front-end</p>
 
 <hr>
 
 ### Current occupations ✨
   <ul>
-    <li><img width="18px" src="https://cdn-icons-png.flaticon.com/512/190/190795.png" /> &nbsp;Front-End Developer Freelancer at <a href="https://www.virtustant.com">Virtustant</a></li>
+    <li><img width="18px" src="https://cdn-icons-png.flaticon.com/512/190/190795.png" /> &nbsp;Full Stack Developer Freelancer at <a href="https://www.virtustant.com">Virtustant</a></li>
     </ul>
 
 <hr>
@@ -36,7 +36,6 @@
 <div>
 <ul>
   <li>⚙ Former Front End Developer student at <a href="https://www.betrybe.com/">Trybe</a></li>
-  <li><img width="18px" src="https://github.com/camilarutt/camilarutt/assets/99209763/a7cec954-e23a-49c5-98d6-4032c20120ad" />&nbsp;
   <li>Game designer in the development of a mobile game called "Carnaval de Juliana" (ink and unity)</li>
   <li>Project Manager, Producer and Web Designer at <a href="https://trevo.us">TREVOUS</a> &nbsp;<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6CqyJVo1JLwV0b4ePrkLjU2kgs-6pWl-thbHgmFK6nA&s" width="16px" height="16px"/></li>
 </ul>
